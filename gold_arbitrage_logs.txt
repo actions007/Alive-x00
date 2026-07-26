@@ -14,3 +14,12 @@ Gross Discrepancy (Gap):
 Market Condition: High Volatility (US Session)
 
 --------------------------------------------------
+
+
+[LOG_001]
+Date/Time (GMT+6): 26-07-2026 17:10
+Exness Price (BTC/USD): 64444.35
+TradingView Price (BTC/USDT): 64520.00
+Gross Discrepancy (Gap): 75.65 USD
+Market Condition: Active Global Spread (USD vs USDT Gap)
+--------------------------------------------------
