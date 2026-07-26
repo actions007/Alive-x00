@@ -23,3 +23,15 @@ TradingView Price (BTC/USDT): 64520.00
 Gross Discrepancy (Gap): 75.65 USD
 Market Condition: Active Global Spread (USD vs USDT Gap)
 --------------------------------------------------
+
+
+[LOG_002]
+Date/Time (GMT+6): 26-07-2026 19:02
+Exness Price (ETH/BTC): 0.029276
+TradingView Price (ETH/BTC - Binance): 0.029270
+Gross Discrepancy (Gap): 0.000006 BTC
+Market Condition: Low Latency Cross-Spread (Exness vs Binance Feed)
+--------------------------------------------------
+
+
+
