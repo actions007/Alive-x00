@@ -1,0 +1,16 @@
+==================================================
+ALIVE-X00: LIVE ARBITRAGE SPREAD LOGS
+==================================================
+Asset Type: XAUUSD (Gold) / BTCUSD (Bitcoin)
+Monitoring Tools: Exness WebTerminal vs TradingView (OANDA Feed)
+Timeframe: 1-Minute (1m) Live Ticks
+--------------------------------------------------
+
+[LOG_001]
+Date/Time (GMT+6): 
+Exness Price: 
+TradingView Price: 
+Gross Discrepancy (Gap): 
+Market Condition: High Volatility (US Session)
+
+--------------------------------------------------
