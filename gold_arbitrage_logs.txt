@@ -35,3 +35,10 @@ Market Condition: Low Latency Cross-Spread (Exness vs Binance Feed)
 
 
 
+[LOG_003]
+Date/Time (GMT+6): 27-07-2026 13:27
+Exness Price (USTEC/USD): 28576.10
+TradingView Price (USTEC - ICMarkets): 28547.60
+Gross Discrepancy (Gap): 28.50 USD
+Market Condition: High Volatility Spread (Exness vs ICMarkets Feed)
+------------------------------------------------------------------
