@@ -22,16 +22,27 @@ Gross Discrepancy (Gap): 0.000006 BTC
 Market Condition: Low Latency Cross-Spread (Exness vs Binance Feed)
 ------------------------------------------------------------------
 
-[LOG_003]
-Date/Time (GMT+6): 27-07-2026 13:27
-Exness Price (USTEC/USD): 28576.10
-TradingView Price (USTEC - ICMarkets): 28547.60
-Gross Discrepancy (Gap): 28.50 USD
-Market Condition: High Volatility Spread (Exness vs ICMarkets Feed)
-------------------------------------------------------------------
+-------------------------------------
+
+[LOG_006]
+Date/Time (GMT+6): 29-07-2026 11:01
+Asset Type: USOIL (Crude Oil)
+Exness Price (USOIL): 81.095
+TradingView Price (USOIL): 82.110
+Gross Discrepancy (Gap): 1.015 USD
+Market Condition: High Spread Discrepancy (Exness vs TradingView)
 
 [SYSTEM_UPDATE]
 Date (GMT+6): 28-07-2026
 Status: System active. Monitoring USTEC market fluctuations. 
 Note: No structural anomalies or gross discrepancies exceeded the +25 USD threshold during today's sessions. Maintaining baseline logs.
 ------------------------------------------------------------------
+-------------------------------------
+
+[LOG_006]
+Date/Time (GMT+6): 29-07-2026 11:01
+Asset Type: USOIL (Crude Oil)
+Exness Price (USOIL): 81.095
+TradingView Price (USOIL): 82.110
+Gross Discrepancy (Gap): 1.015 USD
+Market Condition: High Spread Discrepancy (Exness vs TradingView)
