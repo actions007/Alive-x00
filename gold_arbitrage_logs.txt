@@ -38,3 +38,13 @@ Exness Price (USOIL): 81.095
 TradingView Price (USOIL): 82.110
 Gross Discrepancy (Gap): 1.015 USD
 Market Condition: High Spread Discrepancy (Exness vs TradingView)
+
+----------------------------------------
+
+[LOG_005]
+Date/Time (GMT+6): 30-07-2026 22:15
+Asset Type: XNIUSD (Nikkei 225 Index)
+Exness Price (XNI/USD): 17329.21
+TradingView Price (XNI/USD - EIGHTCAP): 17337.27
+Gross Discrepancy (Gap): 8.06 USD
+Market Condition: High Value Index Spread (Exness vs Eightcap Feed)
