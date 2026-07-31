@@ -48,3 +48,13 @@ Exness Price (XNI/USD): 17329.21
 TradingView Price (XNI/USD - EIGHTCAP): 17337.27
 Gross Discrepancy (Gap): 8.06 USD
 Market Condition: High Value Index Spread (Exness vs Eightcap Feed)
+
+----------------------------------------
+
+[LOG_007]
+Date/Time (GMT+6): 31-07-2026 23:48
+Asset Type: US500 (S&P 500 Index)
+Exness Price (US500): 7483.13
+TradingView Price (US500 - PEPPERSTONE): 7474.70
+Gross Discrepancy (Gap): 8.43 USD
+Market Condition: High Value Index Spread (Exness vs Pepperstone Feed)
