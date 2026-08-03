@@ -61,3 +61,15 @@ Exness Price (US500): 7483.13
 TradingView Price (US500 - PEPPERSTONE): 7474.70
 Gross Discrepancy (Gap): 8.43 USD
 Market Condition: High Value Index Spread (Exness vs Pepperstone Feed)
+
+--------------------------------------------------
+
+[LOG_007]
+Date/Time (GMT+6): 03-08-2026 14:18
+Asset Type: USTEC (US Tech 100 Index)
+Exness Price (USTEC): 28419.01
+TradingView Price (USTEC - ICMARKETS): 28401.70
+Gross Discrepancy (Gap): 17.31 USD
+Market Condition: High Spread Discrepancy (Exness vs ICMarkets Feed)
+
+--------------------------------------------------
