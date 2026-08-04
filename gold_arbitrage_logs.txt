@@ -73,3 +73,15 @@ Gross Discrepancy (Gap): 17.31 USD
 Market Condition: High Spread Discrepancy (Exness vs ICMarkets Feed)
 
 --------------------------------------------------
+
+--------------------------------------------------
+
+[LOG_008]
+Date/Time (GMT+6): 04-08-2026 11:52
+Asset Type: UK100 (UK 100 Index)
+Exness Price (UK100): 10898.71
+TradingView Price (UK100 - CAPITALCOM): 10882.20
+Gross Discrepancy (Gap): 16.51 GBP
+Market Condition: High Spread Discrepancy (Exness vs Capital.com Feed)
+
+--------------------------------------------------
