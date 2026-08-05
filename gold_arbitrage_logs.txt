@@ -85,3 +85,15 @@ Gross Discrepancy (Gap): 16.51 GBP
 Market Condition: High Spread Discrepancy (Exness vs Capital.com Feed)
 
 --------------------------------------------------
+
+--------------------------------------------------
+
+[LOG_009]
+Date/Time (GMT+6): 05-08-2026 11:17
+Asset Type: BTC (Bitcoin CME Futures)
+Exness Price (BTC): 64251.20
+TradingView Price (BTC1! - CME): 64565.00
+Gross Discrepancy (Gap): 313.80 USD
+Market Condition: High Value Index Spread (Exness vs CME Futures Feed)
+
+--------------------------------------------------
