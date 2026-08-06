@@ -97,3 +97,11 @@ Gross Discrepancy (Gap): 313.80 USD
 Market Condition: High Value Index Spread (Exness vs CME Futures Feed)
 
 --------------------------------------------------
+
+[LOG_010]
+Date/Time (GMT+6): 06-08-2026 11:27
+Asset Type: HK50 (Hong Kong 50 Index)
+Exness Price (HK50): 25410.25
+TradingView Price (HK50 - PEPPERSTONE): 25445.80
+Gross Discrepancy (Gap): 35.55 HKD
+Market Condition: High Spread Discrepancy (Exness vs Pepperstone Feed)
